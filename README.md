@@ -5,6 +5,7 @@ I was doing a project involving gen-ai and dreambooth training Stable-Diffusion 
 
 # Steps:
 
+Please note that I am using Cuda 11.8 and have installed compatible versions of pytorch,xformers... Make changes accordingly.
 1.Put dreamsetup.bat in your-Stable-Diffusion-Folder\system\python\Scripts\ <br />
 2.Run dreamsetup.bat <br />
 3.Put webui-user.bat in your-Stable-Diffusion-Folder\webui\ <br />
