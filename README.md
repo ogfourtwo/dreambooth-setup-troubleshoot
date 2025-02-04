@@ -11,3 +11,7 @@ I was doing a project involving gen-ai and dreambooth training Stable-Diffusion 
 4.Run with run.bat
 
 #Thanks!
+
+# Disclaimer:
+I am not responsible for any damage or braincell loss this may cause.
+My specs: Asus TUF A15 Ryzen 9 5900hx 16GB RTX-3060 Laptop GPU 6GB
