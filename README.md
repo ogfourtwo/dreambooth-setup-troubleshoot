@@ -5,13 +5,13 @@ I was doing a project involving gen-ai and dreambooth training Stable-Diffusion 
 
 # Steps:
 
-1.Put dreamsetup.bat in your-Stable-Diffusion-Folder\system\python\Scripts\
-2.Run dreamsetup.bat
-3.Put webui-user.bat in your-Stable-Diffusion-Folder\webui\
-4.Run with run.bat
+1.Put dreamsetup.bat in your-Stable-Diffusion-Folder\system\python\Scripts\ <br />
+2.Run dreamsetup.bat <br />
+3.Put webui-user.bat in your-Stable-Diffusion-Folder\webui\ <br />
+4.Run with run.bat <br />
 
 #Thanks!
 
 # Disclaimer:
-I am not responsible for any damage or braincell loss this may cause.
-My specs: Asus TUF A15 Ryzen 9 5900hx 16GB RTX-3060 Laptop GPU 6GB
+I am not responsible for any damage or braincell loss this may cause. <br />
+My specs: Asus TUF A15 Ryzen 9 5900hx 16GB RTX-3060 Laptop GPU 6GB <br />
